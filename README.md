@@ -2,58 +2,214 @@
 
 [[English Version]](./README_EN.md)
 
-## IGS 負責專案
+## 目錄
 
-> 由於自身工作領域廣泛，詳細內容請至 [[工作項目清單]](./JobList.md) 查看。
+- [公司產品](#公司產品)
+- [個人作品](#個人作品)
+- [其他](#其他)
+- [作品預覽](#作品預覽)
 
-<span>
-<a href="https://youtu.be/5gkZJXwEj4c" target="_blank">
-    <img alt="Hypercross" src="./Previews/Projects/Hypercross.png"
-    width=170">
-</a>
-<a href="https://youtu.be/0NxRoB6_TiM" target="_blank">
-    <img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png"
-    width=170">
-</a>
-<a href="https://youtu.be/4_J2BJvY6-o" target="_blank">
-    <img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png"
-    width=170">
-</a>
-</span>
+## 公司產品
 
 <span>
-<a href="https://youtu.be/-OFKzzNUtb4" target="_blank">
-    <img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg"
-    width=170">
-</a>
-<a href="https://youtu.be/0aCgyzVBEaA" target="_blank">
-    <img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg"
-    width=170">
-</a>
-<a href="https://youtu.be/AB4iQr1gpoc" target="_blank">
-    <img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg"
-    width=170">
-</a>
+    <a href="https://youtu.be/4_J2BJvY6-o" target="_blank">
+        <img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170">
+    </a>
+    <a href="https://youtu.be/0NxRoB6_TiM" target="_blank">
+        <img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png" width="170">
+    </a>
+    <a href="https://youtu.be/5gkZJXwEj4c" target="_blank">
+        <img alt="Hypercross" src="./Previews/Projects/Hypercross.png" width="170">
+    </a>
+    <br/>
+    <a href="https://youtu.be/-OFKzzNUtb4" target="_blank">
+        <img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg" width="170">
+    </a>
+    <a href="https://youtu.be/0aCgyzVBEaA" target="_blank">
+        <img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg" width="170">
+    </a>
+    <a href="https://youtu.be/AB4iQr1gpoc" target="_blank">
+        <img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg" width="170">
+    </a>
+    <br/>
+    <a href="https://youtu.be/x51WJhPdX5E" target="_blank">
+        <img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg" width="170">
+    </a>
+    <a href="https://youtu.be/katB0DeYiOc" target="_blank">
+        <img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg" width="170">
+    </a>
+    <a href="https://youtu.be/xR06M50puak" target="_blank">
+        <img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170">
+    </a>
 </span>
 
-<span>
-<a href="https://youtu.be/x51WJhPdX5E" target="_blank">
-    <img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg"
-    width=170">
-</a>
-<a href="https://youtu.be/katB0DeYiOc" target="_blank">
-    <img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg"
-    width=170">
-</a>
-<a href="https://youtu.be/xR06M50puak" target="_blank">
-    <img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg"
-    width=170">
-</a>
-</span>
+> ### 狂野飆車 9 DX
+>
+> - 【後台】
+>   - 資料庫
+>   - Server
+>     - 玩家資料、遊戲 Log、營收、活動、排行榜
+>   - 玩家帳號登入 Server
+>     - 機台 QR -> Server -> 導向第三方登入授權 -> oauth 取得 access token -> 取得資料 -> 登入
+>   - 機台校時 Server
+> - 【遊戲元件】
+>   - Rank Manager
+>     - 上傳玩家成績
+>     - 同步全球、區網排行榜
+>   - Revenue Manager
+>   - Player Log Recorder
+>   - GIF Recorder
+>     - Webcam 拍攝玩家頭像
+>     - 導入臉部追蹤
+>     - 儲存拍攝畫面並製作成 GIF
+>     - 將 GIF 同步至對戰玩家
+>   - Webcam Streaming
+>     - 影像同步至對戰玩家
+>   - Progress Observer
+>     - 同步對戰玩家遊戲流程進度
+> - 【決策】
+>   - 測試 LINE Bot
+>     - 向 Server 取得當前玩家人數、營收等資訊
+> - 【工具】
+>   - 構想出新方式並教導音樂音效小組製作更逼真車輛音效
+>   - [A9CT](#個人作品)
+>   - [BSelection](#個人作品)
+>   - [BAttach](#個人作品)
 
-## 個人作品清單
+> ### 狂野飆車 9 VR
+>
+> - 【後台】
+>   - 資料庫
+>   - Server 移植
+>   - 玩家帳號登入 Server 移植
+>   - 機台校時 Server 移植
+> - 【遊戲元件】
+>   - Rank Manager 移植
+>   - Revenue Manager 移植
 
-> 以下為過去所開發的工具清單，目的幾乎都是為了提升團隊開發效率、幫助同伴。部分工具因涉及公司技術並未對外開放，未來將以重新撰寫的方式進行開源，其餘創作將陸續上傳。
+> ### 極速雪摩
+>
+> - 【後台】
+>   - 資料庫
+>   - Server 移植
+>   - 機台校時 Server 移植
+> - 【遊戲元件】
+>   - Rank Manager 移植
+>   - Revenue Manager 移植
+> - 【工具】
+>   - [Progress Bar](#個人作品)
+
+> ### 勝利摩托 VR
+>
+> - 【遊戲元件】
+>   - Distance Manager
+>     - KD-Tree Algorithm
+>     - 管理與計算車輛里程數
+>   - Event System
+>     - Pub/Sub Pattern
+>   - [Race Match Net](#個人作品)
+>     - 大廳制對戰配對系統
+> - 【工具】
+>   - [BMidLine](#個人作品)
+
+> ### 火線狂飆 VR
+>
+> - 【遊戲元件】
+>   - AI Controller
+>     - 名次戰術
+>     - 閃避障礙物
+>     - 過彎、甩尾
+>   - Audio Manager
+>     - 機台日夜音量變更
+>     - 音量平衡動態切換
+>     - 真實車輛引擎聲
+>     - 車輛甩尾 Pitch 變化
+>   - Auto Tester
+>     - 自動化測試產品穩定度
+>   - Sequence Update Manager
+>     - 依場景物件階層，固定更新順序
+> - 【美術】
+>   - 串接運鏡動畫
+>   - 優化車輛音效效果: 拉轉、燒胎等
+> - 【決策】
+>   - 評估與介紹 Unreal 4
+>   - 評估與介紹 Wwise
+>   - 實驗 Unity3D 中使用確定性同步物理，以降低網路傳輸量
+>   - 實驗粒子合成引擎聲
+> - 【工具】
+>   - [Delete Missing Scripts](#個人作品)
+>   - [BInspector](#個人作品)
+>   - Find Objects Of Type All In Scene
+
+> ### 極速摩托 3
+>
+> - 【決策】
+>   - 評估 Unity 4.x vs Unity 5.x
+>     - LOD 效能優化
+>     - 布料、髮絲物理
+> - 【遊戲元件】
+>   - Distance Manager
+>     - KD-Tree Algorithm
+>     - 管理與計算車輛里程數
+>   - Vehicle Manager
+>     - 管理比賽車輛
+>   - Event System
+>     - Pub/Sub Pattern
+>   - 攝影機運鏡
+>     - 過場與遊戲攝影機銜接
+>     - 狀態優先度與疊加設計
+>     - Replay Cam 切換
+>   - Audio Manager
+>     - 機台日夜音量變更
+>     - 音量平衡動態切換
+>     - 真實車輛引擎聲
+>     - 車輛甩尾 Pitch 變化
+>   - IO Handler
+>     - 管理框體 IO 訊號
+> - 【工具】
+>   - [B-Midline](#個人作品)
+>   - [B-Sound-Editor](#個人作品)
+>   - [Unity Debugger](#個人作品)
+>   - [Unity Log Helper](#個人作品)
+
+> ### 勝利追擊
+>
+> - 【優化】
+>   - CPU 效能優化
+> - 【美術】
+>   - 引擎蓋視角嘗試
+>   - 粒子特效控制
+>   - 攝影機手持運鏡效果
+
+> ### 毛毛童萌會
+>
+> - 【遊戲元件】
+>   - AI 邏輯開發
+> - 【美術】
+>   - 角色動畫綁定
+>   - 角色配件切換
+>   - 角色材質切換
+
+> ### 潛艇聯萌
+>
+> - 【物理】
+>   - 物件碰撞
+> - 【遊戲元件】
+>   - 無限拼接賽道
+>   - 障礙物設計
+>   - 敵人設計
+>   - 子彈設計
+>   - 操作員選單設計
+>   - Event System
+> - 【IO 控制】
+>   - 框體方向盤控制
+> - 【工具】
+>   - Trigger 編輯器
+>   - 框體燈光編輯器
+
+## 個人作品
+
+> 以下為過去所開發的工具清單，提升團隊開發效率、協助夥伴。
 
 | No. | Name                                            | Difficulty | Popularity | Description                                                                                                                                                                                                                      |
 | --- | ----------------------------------------------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,9 +222,9 @@
 | 7   | [B-Shortcut](#b-shortcut)                       | `★★`       | `★★★★★`    | Unity 小工具: 記憶選取的專案資源或資料夾，以利下次選取                                                                                                                                                                           |
 | 8   | [B-Sound-Editor](#b-sound-editor)               | `★★★★`     | `★★★★★`    | Unity 工具: 於編輯面板上修改並預覽場景音效                                                                                                                                                                                       |
 | 9   | [B-Sound-Mute](#b-sound-mute)                   | `★★★★`     | `★★★★★`    | Windows 系統工具，快速切換軟體靜音 [[巴哈文章]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316)                                                                                                                          |
-| 10  | Delete-Missing-Scripts                          | `★★`       | `★★★★`     | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                                                                                                       |
-| 11  | [Dot-Netty-Server](#dot-netty-server)           | `★★★★★`    | `★★★★★`    | 利用 [DotNetty](https://github.com/Azure/DotNetty) 與 [MessagePack](https://github.com/neuecc/MessagePack-CSharp) 所做成的 C# Server 框架，效能、移植性兼具                                                                      |
-| 12  | [BEPU-Unity](#bepu-unity)                       | `★★★★★`    | `★★`       | 實驗將定點運算 (Fixed Point Math) 的物理系統 BEPU 導入 Unity，嘗試確定性同步 (Deterministic Synchronization) 的可能性                                                                                                            |
+| 10  | [BEPU-Unity](#bepu-unity)                       | `★★★★★`    | `★★`       | 實驗將定點運算 (Fixed Point Math) 的物理系統 BEPU 導入 Unity，嘗試確定性同步 (Deterministic Synchronization) 的可能性                                                                                                            |
+| 11  | Delete-Missing-Scripts                          | `★★`       | `★★★★`     | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                                                                                                       |
+| 12  | [Dot-Netty-Server](#dot-netty-server)           | `★★★★★`    | `★★★★★`    | 利用 [DotNetty](https://github.com/Azure/DotNetty) 與 [MessagePack](https://github.com/neuecc/MessagePack-CSharp) 所做成的 C# Server 框架，效能、移植性兼具                                                                      |
 | 13  | [Full-Screen-Game-View](#full-screen-game-view) | `★★★`      | `★★`       | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列                                                                                                                                                                              |
 | 14  | Net-Kit-Win7                                    | `★★`       | `★★★★★`    | Windows 系統工具: 快速切換網路介面卡靜態、動態 IP                                                                                                                                                                                |
 | 15  | [Progress-Bar](#progress-bar)                   | `★★`       | `★★★★★`    | Windows 工具: 於畫面上顯示進度條與設定的文字內容                                                                                                                                                                                 |
@@ -77,14 +233,13 @@
 | 18  | [Unity-Debugger](#unity-debugger)               | `★★★`      | `★★★★★`    | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                                                                                        |
 | 19  | [Unity-Log-Helper](#unity-log-helper)           | `★★`       | `★★★★★`    | Unity 工具: 依標籤的不同，決定是否印出對應的 Log，使開發人員能專注在自己想注意的 Log 上                                                                                                                                          |
 
-## 其他作品
+## 其他
 
-| No. | Name                                                            | Description                                                                                                                                  |
-| --- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [DBHB](#dbhb)                                                   | 嘗試利用網路資源，製作七龍珠橫向卷軸跑酷遊戲                                                                                                 |
-| 2   | [GTA4-Jason-Statham](#gta4-jason-statham)                       | 製作 GTA4 MOD: 將主角臉型模仿傑森史塔森的模樣 (沒錯，我做過 3D 模型!) [[MOD 連結]](https://www.gtagaming.com/jason-statham-face-f25156.html) |
-| 3   | [The-Witcher-3-White-Wolf](#the-witcher-3-white-wolf)           | 製作巫師三 MOD: 依據小說描述，調整主角模型貼圖 (沒錯，我會 PhotoShop!) [[MOD 連結]](https://www.nexusmods.com/witcher3/mods/2122)            |
-| 4   | [The-Witcher-3-Short-Scar-Ciri](#the-witcher-3-short-scar-ciri) | 製作巫師三 MOD: 將女主角臉上疤痕美化 [[MOD 連結]](https://www.nexusmods.com/witcher3/mods/2036)                                              |
+| No. | Name                                                            | Description                                                                                                          |
+| --- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1   | [GTA4-Jason-Statham](#gta4-jason-statham)                       | 製作 GTA4 MOD: 將主角臉型模仿傑森史塔森的模樣 [[MOD 連結]](https://www.gtagaming.com/jason-statham-face-f25156.html) |
+| 2   | [The-Witcher-3-White-Wolf](#the-witcher-3-white-wolf)           | 製作巫師三 MOD: 依據小說描述，調整主角模型貼圖 [[MOD 連結]](https://www.nexusmods.com/witcher3/mods/2122)            |
+| 3   | [The-Witcher-3-Short-Scar-Ciri](#the-witcher-3-short-scar-ciri) | 製作巫師三 MOD: 美化女主角臉上疤痕 [[MOD 連結]](https://www.nexusmods.com/witcher3/mods/2036)                        |
 
 ## 作品預覽
 
@@ -136,6 +291,8 @@
 ### Race-Match-Net
 
 <img src="./Previews/RaceMatchNet.jpg" width="250"></img>
+</br>
+<img src="./Previews/LocalNetFlowChart.png" height="60"></img>
 
 ### Trash-View
 
@@ -148,11 +305,6 @@
 ### Unity-Log-Helper
 
 <img src="./Previews/UnityLogHelper.png" width="250"></img>
-
-### DBHB
-
-<img src="./Previews/DBHB-1.gif" width="400"></img>
-<img src="./Previews/DBHB-2.gif" width="400"></img>
 
 ### GTA4-Jason-Statham
 
