@@ -79,7 +79,7 @@
 > - 【Decisions】
 >   - Evaluate the possibility of using LINE Bot
 >     - Obtain current number of players, revenue, etc
->       <img src="./Previews/Works/A9DXLineBot.png" width="200"></img>
+>     - <img src="./Previews/Works/A9DXLineBot.png" width="200"></img>
 > - 【Tools】
 >   - Create a new ways and teach the audio engineers to make realistic vehicle sounds more easier
 >   - [A9CT](#tools-list)
@@ -131,13 +131,13 @@
 >     - Turning, Drift
 >   - Audio Manager
 >     - Change machine volume day and night
->       <img src="./Previews/Works/OvertakeVrVolumeSettings.png" width="200"></img>
+>     - <img src="./Previews/Works/OvertakeVrVolumeSettings.png" width="200"></img>
 >     - Dynamically switch volume balance
 >     - Real Vehicle Engine Sound
 >     - Dynamic Drift Pitch
 >   - Auto Tester
 >     - Automated test product stability
->       <img src="./Previews/Works/OvertakeVrAutoTest.png" width="200"></img>
+>     - <img src="./Previews/Works/OvertakeVrAutoTest.png" width="200"></img>
 >   - Sequence Update Manager
 >     - Fixed update sequence based on scene object hierarchy
 > - 【Visual Effects】
@@ -170,7 +170,7 @@
 >   - Camera Control
 >     - Connection between cutscene and game view
 >     - State priority and overlay design
->       <img src="./Previews/Works/Sr3CameraStrategyController.png" width="250"></img>
+>     - <img src="./Previews/Works/Sr3CameraStrategyController.png" width="250"></img>
 >     - Replay Cam Switch
 >   - Audio Manager
 >     - Change machine volume day and night

@@ -70,7 +70,7 @@
 > - 【決策】
 >   - 測試 LINE Bot
 >     - 向 Server 取得當前玩家人數、營收等資訊
->       <img src="./Previews/Works/A9DXLineBot.png" width="200"></img>
+>     - <img src="./Previews/Works/A9DXLineBot.png" width="200"></img>
 > - 【工具】
 >   - 構想出新方式並教導音樂音效小組製作更逼真車輛音效
 >   - [A9CT](#個人作品)
@@ -122,13 +122,13 @@
 >     - 過彎、甩尾
 >   - Audio Manager
 >     - 機台日夜音量變更
->       <img src="./Previews/Works/OvertakeVrVolumeSettings.png" width="200"></img>
+>     - <img src="./Previews/Works/OvertakeVrVolumeSettings.png" width="200"></img>
 >     - 音量平衡動態切換
 >     - 真實車輛引擎聲
 >     - 車輛甩尾 Pitch 變化
 >   - Auto Tester
 >     - 自動化測試產品穩定度
->       <img src="./Previews/Works/OvertakeVrAutoTest.png" width="200"></img>
+>     - <img src="./Previews/Works/OvertakeVrAutoTest.png" width="200"></img>
 >   - Sequence Update Manager
 >     - 依場景物件階層，固定更新順序
 > - 【美術】
@@ -161,7 +161,7 @@
 >   - 攝影機運鏡
 >     - 過場與遊戲攝影機銜接
 >     - 狀態優先度與疊加設計
->       <img src="./Previews/Works/Sr3CameraStrategyController.png" width="250"></img>
+>     - <img src="./Previews/Works/Sr3CameraStrategyController.png" width="250"></img>
 >     - Replay Cam 切換
 >   - Audio Manager
 >     - 機台日夜音量變更
