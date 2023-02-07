@@ -215,27 +215,27 @@
 
 > 以下為過去所開發的工具清單，提升團隊開發效率、協助夥伴。
 
-| No. | Name                                            | Difficulty | Popularity | Description                                                                                                                                                                                                                      |
-| --- | ----------------------------------------------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [A9CT](#a9ct)                                   | `★★★★`     | `★★★`      | 遊戲修改器: 讓團隊成員能透過修改器自由控制他款遊戲視角，以參考其美術做法                                                                                                                                                         |
-| 2   | Any-Struct                                      | `★★`       | `★★★`      | 嘗試製作 struct 基底類，解決 C# 轉型 Boxing [[文章連結]](https://bwaynesu.wordpress.com/2021/08/21/%e5%98%97%e8%a9%a6%e8%a3%bd%e4%bd%9c-struct-%e5%9f%ba%e5%ba%95%e9%a1%9e%ef%bc%8c%e8%a7%a3%e6%b1%ba%e8%bd%89%e5%9e%8b-boxing/) |
-| 3   | [B-Attach](#b-attach)                           | `★★`       | `★★★`      | Unity 小工具: 輕鬆控制物件貼地                                                                                                                                                                                                   |
-| 4   | [B-Inspector](./Docs/bInspectorManual.pdf)      | `★★★`      | `★★★★`     | Unity 介面優化: 讓 Inspector 更加人性化                                                                                                                                                                                          |
-| 5   | [B-Midline](#b-midline)                         | `★★★★★`    | `★★★★`     | Unity 工具: 提高繪製賽道中線效率                                                                                                                                                                                                 |
-| 6   | [B-Selection](#b-selection)                     | `★★`       | `★★★★★`    | Unity 小工具: 記憶多選的場景物件，以利下次選取                                                                                                                                                                                   |
-| 7   | [B-Shortcut](#b-shortcut)                       | `★★`       | `★★★★★`    | Unity 小工具: 記憶選取的專案資源或資料夾，以利下次選取                                                                                                                                                                           |
-| 8   | [B-Sound-Editor](#b-sound-editor)               | `★★★★`     | `★★★★★`    | Unity 工具: 於編輯面板上修改並預覽場景音效                                                                                                                                                                                       |
-| 9   | [B-Sound-Mute](#b-sound-mute)                   | `★★★★`     | `★★★★★`    | Windows 系統工具，快速切換軟體靜音 [[巴哈文章]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316)                                                                                                                          |
-| 10  | [BEPU-Unity](#bepu-unity)                       | `★★★★★`    | `★★`       | 實驗將定點運算 (Fixed Point Math) 的物理系統 BEPU 導入 Unity，嘗試確定性同步 (Deterministic Synchronization) 的可能性                                                                                                            |
-| 11  | Delete-Missing-Scripts                          | `★★`       | `★★★★`     | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                                                                                                       |
-| 12  | [Dot-Netty-Server](#dot-netty-server)           | `★★★★★`    | `★★★★★`    | 利用 [DotNetty](https://github.com/Azure/DotNetty) 與 [MessagePack](https://github.com/neuecc/MessagePack-CSharp) 所做成的 C# Server 框架，效能、移植性兼具                                                                      |
-| 13  | [Full-Screen-Game-View](#full-screen-game-view) | `★★★`      | `★★`       | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列                                                                                                                                                                              |
-| 14  | Net-Kit-Win7                                    | `★★`       | `★★★★★`    | Windows 系統工具: 快速切換網路介面卡靜態、動態 IP                                                                                                                                                                                |
-| 15  | [Progress-Bar](#progress-bar)                   | `★★`       | `★★★★★`    | Windows 工具: 於畫面上顯示進度條與設定的文字內容                                                                                                                                                                                 |
-| 16  | [Race-Match-Net](#race-match-net)               | `★★★★★`    | `★★★★★`    | 可移植的大廳制對戰配對系統                                                                                                                                                                                                       |
-| 17  | [Trash-View](#trash-view)                       | `★★★`      | `★★★★★`    | Windows 工具: 透過網路將複製的內容同步至其他電腦的剪貼簿中，方便快速複製貼上                                                                                                                                                     |
-| 18  | [Unity-Debugger](#unity-debugger)               | `★★★`      | `★★★★★`    | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                                                                                        |
-| 19  | [Unity-Log-Helper](#unity-log-helper)           | `★★`       | `★★★★★`    | Unity 工具: 依標籤的不同，決定是否印出對應的 Log，使開發人員能專注在自己想注意的 Log 上                                                                                                                                          |
+| No. | Name                                              | Difficulty | Popularity | Description                                                                                                                                                                                                                      |
+| --- | ------------------------------------------------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [A9CT](#a9ct)                                     | `★★★★`     | `★★★`      | 遊戲修改器: 讓團隊成員能透過修改器自由控制他款遊戲視角，以參考其美術做法                                                                                                                                                         |
+| 2   | Any-Struct                                        | `★★`       | `★★★`      | 嘗試製作 struct 基底類，解決 C# 轉型 Boxing [[文章連結]](https://bwaynesu.wordpress.com/2021/08/21/%e5%98%97%e8%a9%a6%e8%a3%bd%e4%bd%9c-struct-%e5%9f%ba%e5%ba%95%e9%a1%9e%ef%bc%8c%e8%a7%a3%e6%b1%ba%e8%bd%89%e5%9e%8b-boxing/) |
+| 3   | [B-Attach](#b-attach)                             | `★★`       | `★★★`      | Unity 小工具: 輕鬆控制物件貼地                                                                                                                                                                                                   |
+| 4   | [B-Inspector](#b-inspector)                       | `★★★`      | `★★★★`     | Unity 介面優化: 讓 Inspector 更加人性化                                                                                                                                                                                          |
+| 5   | [B-Midline](#b-midline)                           | `★★★★★`    | `★★★★`     | Unity 工具: 提高繪製賽道中線效率                                                                                                                                                                                                 |
+| 6   | [B-Selection](#b-selection)                       | `★★`       | `★★★★★`    | Unity 小工具: 記憶多選的場景物件，以利下次選取                                                                                                                                                                                   |
+| 7   | [B-Shortcut](#b-shortcut)                         | `★★`       | `★★★★★`    | Unity 小工具: 記憶選取的專案資源或資料夾，以利下次選取                                                                                                                                                                           |
+| 8   | [B-Sound-Editor](#b-sound-editor)                 | `★★★★`     | `★★★★★`    | Unity 工具: 於編輯面板上修改並預覽場景音效                                                                                                                                                                                       |
+| 9   | [B-Sound-Mute](#b-sound-mute)                     | `★★★★`     | `★★★★★`    | Windows 系統工具，快速切換軟體靜音 [[巴哈文章]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316)                                                                                                                          |
+| 10  | [BEPU-Unity](#bepu-unity)                         | `★★★★★`    | `★★`       | 實驗將定點運算 (Fixed Point Math) 的物理系統 BEPU 導入 Unity，嘗試確定性同步 (Deterministic Synchronization) 的可能性                                                                                                            |
+| 11  | [Delete-Missing-Scripts](#delete-missing-scripts) | `★★`       | `★★★★`     | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                                                                                                       |
+| 12  | [Dot-Netty-Server](#dot-netty-server)             | `★★★★★`    | `★★★★★`    | 利用 [DotNetty](https://github.com/Azure/DotNetty) 與 [MessagePack](https://github.com/neuecc/MessagePack-CSharp) 所做成的 C# Server 框架，效能、移植性兼具                                                                      |
+| 13  | [Full-Screen-Game-View](#full-screen-game-view)   | `★★★`      | `★★`       | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列                                                                                                                                                                              |
+| 14  | Net-Kit-Win7                                      | `★★`       | `★★★★★`    | Windows 系統工具: 快速切換網路介面卡靜態、動態 IP                                                                                                                                                                                |
+| 15  | [Progress-Bar](#progress-bar)                     | `★★`       | `★★★★★`    | Windows 工具: 於畫面上顯示進度條與設定的文字內容                                                                                                                                                                                 |
+| 16  | [Race-Match-Net](#race-match-net)                 | `★★★★★`    | `★★★★★`    | 可移植的大廳制對戰配對系統                                                                                                                                                                                                       |
+| 17  | [Trash-View](#trash-view)                         | `★★★`      | `★★★★★`    | Windows 工具: 透過網路將複製的內容同步至其他電腦的剪貼簿中，方便快速複製貼上                                                                                                                                                     |
+| 18  | [Unity-Debugger](#unity-debugger)                 | `★★★`      | `★★★★★`    | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                                                                                        |
+| 19  | [Unity-Log-Helper](#unity-log-helper)             | `★★`       | `★★★★★`    | Unity 工具: 依標籤的不同，決定是否印出對應的 Log，使開發人員能專注在自己想注意的 Log 上                                                                                                                                          |
 
 ## 其他
 
@@ -255,9 +255,14 @@
 
 <img src="./Previews/bAttach.png" width="200"></img>
 
+### B-Inspector
+
+[![](https://markdown-videos.deta.dev/youtube/fo9jejYDZWY)](https://youtu.be/fo9jejYDZWY)
+
 ### B-Midline
 
 <img src="./Previews/bMidline.png" width="400"></img>
+[![](https://markdown-videos.deta.dev/youtube/bk95cM1o4-E)](https://youtu.be/bk95cM1o4-E)
 
 ### B-Selection
 
@@ -271,6 +276,7 @@
 ### B-Sound-Editor
 
 <img src="./Previews/SceneSoundEditor.png" width="500"></img>
+[![](https://markdown-videos.deta.dev/youtube/W-92XYgx0m4)](https://youtu.be/W-92XYgx0m4)
 
 ### B-Sound-Mute
 
@@ -283,6 +289,10 @@
 ### BEPU-Unity
 
 <img src="./Previews/BepuRecorder.png" width="250"></img>
+
+### Delete-Missing-Scripts
+
+[![](https://markdown-videos.deta.dev/youtube/LxU48mpaAdA)](https://youtu.be/LxU48mpaAdA)
 
 ### Full-Screen-Game-View
 

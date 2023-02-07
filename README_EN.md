@@ -215,27 +215,27 @@
 
 > The following is a list of tools I developed. Almost all of them are focus on improving team development efficiency and helping peers.
 
-| No. | Name                                            | Difficulty | Popularity | Description                                                                                                                                                                                                                                          |
-| --- | ----------------------------------------------- | ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [A9CT](#a9ct)                                   | `★★★★`     | `★★★`      | Cheat Engine: Allow our team members to freely control the camera in other games, thus we can learn how they create those scenes                                                                                                                     |
-| 2   | Any-Struct                                      | `★★`       | `★★★`      | An alternative solution to solve the problem of the boxing in C# [[Article]](https://bwaynesu.wordpress.com/2021/08/21/%e5%98%97%e8%a9%a6%e8%a3%bd%e4%bd%9c-struct-%e5%9f%ba%e5%ba%95%e9%a1%9e%ef%bc%8c%e8%a7%a3%e6%b1%ba%e8%bd%89%e5%9e%8b-boxing/) |
-| 3   | [B-Attach](#b-attach)                           | `★★`       | `★★★`      | Unity Tool: Attach the game objects to the ground easily                                                                                                                                                                                             |
-| 4   | [B-Inspector](./Docs/bInspectorManual.pdf)      | `★★★`      | `★★★★`     | Unity Interface Enhance: Make Unity's Inspector more friendly                                                                                                                                                                                        |
-| 5   | [B-Midline](#b-midline)                         | `★★★★★`    | `★★★★`     | Unity Tool: Improve the efficiency of drawing the midline of the track                                                                                                                                                                               |
-| 6   | [B-Selection](#b-selection)                     | `★★`       | `★★★★★`    | Unity Tool: Cache the data of the selected game objects from the scene to re-select them next time quickly                                                                                                                                           |
-| 7   | [B-Shortcut](#b-shortcut)                       | `★★`       | `★★★★★`    | Unity Tool: Cache the data of the selected files/folder from the project to re-select them next time quickly                                                                                                                                         |
-| 8   | [B-Sound-Editor](#b-sound-editor)               | `★★★★`     | `★★★★★`    | Unity Tool: Easy to balance the sound effects of the scene                                                                                                                                                                                           |
-| 9   | [B-Sound-Mute](#b-sound-mute)                   | `★★★★`     | `★★★★★`    | Windows System Tool: Mute the programs easily [[Article]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316)                                                                                                                                    |
-| 10  | [BEPU-Unity](#bepu-unity)                       | `★★★★★`    | `★★`       | Try to import the fixed point math version of BEPU (Physics Engine) into Unity                                                                                                                                                                       |
-| 11  | Delete-Missing-Scripts                          | `★★`       | `★★★★`     | Unity Tool: Find and delete the missing scripts in all objects                                                                                                                                                                                       |
-| 12  | [Dot-Netty-Server](#dot-netty-server)           | `★★★★★`    | `★★★★★`    | A framework of C# sever made with [DotNetty](https://github.com/Azure/DotNetty) and [MessagePack](https://github.com/neuecc/MessagePack-CSharp)                                                                                                      |
-| 13  | [Full-Screen-Game-View](#full-screen-game-view) | `★★★`      | `★★`       | Unity Tool: Maximize the game view and hide the toolbar on the top                                                                                                                                                                                   |
-| 14  | Net-Kit-Win7                                    | `★★`       | `★★★★★`    | Windows System Tool: Switch between static IP and dynamic IP easily                                                                                                                                                                                  |
-| 15  | [Progress-Bar](#progress-bar)                   | `★★`       | `★★★★★`    | Windows Tool: Display the progress bar and the text on the screen                                                                                                                                                                                    |
-| 16  | [Race-Match-Net](#race-match-net)               | `★★★★★`    | `★★★★★`    | Portable lobby-based matching system                                                                                                                                                                                                                 |
-| 17  | [Trash-View](#trash-view)                       | `★★★`      | `★★★★★`    | Windows Tool: Synchronize the data in the clipboard easily through local net                                                                                                                                                                         |
-| 18  | [Unity-Debugger](#unity-debugger)               | `★★★`      | `★★★★★`    | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                                                                                                |
-| 19  | [Unity-Log-Helper](#unity-log-helper)           | `★★`       | `★★★★★`    | Unity Tool: Categorize the log by different tags and print the selected log                                                                                                                                                                          |
+| No. | Name                                              | Difficulty | Popularity | Description                                                                                                                                                                                                                                          |
+| --- | ------------------------------------------------- | ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [A9CT](#a9ct)                                     | `★★★★`     | `★★★`      | Cheat Engine: Allow our team members to freely control the camera in other games, thus we can learn how they create those scenes                                                                                                                     |
+| 2   | Any-Struct                                        | `★★`       | `★★★`      | An alternative solution to solve the problem of the boxing in C# [[Article]](https://bwaynesu.wordpress.com/2021/08/21/%e5%98%97%e8%a9%a6%e8%a3%bd%e4%bd%9c-struct-%e5%9f%ba%e5%ba%95%e9%a1%9e%ef%bc%8c%e8%a7%a3%e6%b1%ba%e8%bd%89%e5%9e%8b-boxing/) |
+| 3   | [B-Attach](#b-attach)                             | `★★`       | `★★★`      | Unity Tool: Attach the game objects to the ground easily                                                                                                                                                                                             |
+| 4   | [B-Inspector](#b-inspector)                       | `★★★`      | `★★★★`     | Unity Interface Enhance: Make Unity's Inspector more friendly                                                                                                                                                                                        |
+| 5   | [B-Midline](#b-midline)                           | `★★★★★`    | `★★★★`     | Unity Tool: Improve the efficiency of drawing the midline of the track                                                                                                                                                                               |
+| 6   | [B-Selection](#b-selection)                       | `★★`       | `★★★★★`    | Unity Tool: Cache the data of the selected game objects from the scene to re-select them next time quickly                                                                                                                                           |
+| 7   | [B-Shortcut](#b-shortcut)                         | `★★`       | `★★★★★`    | Unity Tool: Cache the data of the selected files/folder from the project to re-select them next time quickly                                                                                                                                         |
+| 8   | [B-Sound-Editor](#b-sound-editor)                 | `★★★★`     | `★★★★★`    | Unity Tool: Easy to balance the sound effects of the scene                                                                                                                                                                                           |
+| 9   | [B-Sound-Mute](#b-sound-mute)                     | `★★★★`     | `★★★★★`    | Windows System Tool: Mute the programs easily [[Article]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316)                                                                                                                                    |
+| 10  | [BEPU-Unity](#bepu-unity)                         | `★★★★★`    | `★★`       | Try to import the fixed point math version of BEPU (Physics Engine) into Unity                                                                                                                                                                       |
+| 11  | [Delete-Missing-Scripts](#delete-missing-scripts) | `★★`       | `★★★★`     | Unity Tool: Find and delete the missing scripts in all objects                                                                                                                                                                                       |
+| 12  | [Dot-Netty-Server](#dot-netty-server)             | `★★★★★`    | `★★★★★`    | A framework of C# sever made with [DotNetty](https://github.com/Azure/DotNetty) and [MessagePack](https://github.com/neuecc/MessagePack-CSharp)                                                                                                      |
+| 13  | [Full-Screen-Game-View](#full-screen-game-view)   | `★★★`      | `★★`       | Unity Tool: Maximize the game view and hide the toolbar on the top                                                                                                                                                                                   |
+| 14  | Net-Kit-Win7                                      | `★★`       | `★★★★★`    | Windows System Tool: Switch between static IP and dynamic IP easily                                                                                                                                                                                  |
+| 15  | [Progress-Bar](#progress-bar)                     | `★★`       | `★★★★★`    | Windows Tool: Display the progress bar and the text on the screen                                                                                                                                                                                    |
+| 16  | [Race-Match-Net](#race-match-net)                 | `★★★★★`    | `★★★★★`    | Portable lobby-based matching system                                                                                                                                                                                                                 |
+| 17  | [Trash-View](#trash-view)                         | `★★★`      | `★★★★★`    | Windows Tool: Synchronize the data in the clipboard easily through local net                                                                                                                                                                         |
+| 18  | [Unity-Debugger](#unity-debugger)                 | `★★★`      | `★★★★★`    | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                                                                                                |
+| 19  | [Unity-Log-Helper](#unity-log-helper)             | `★★`       | `★★★★★`    | Unity Tool: Categorize the log by different tags and print the selected log                                                                                                                                                                          |
 
 ## Others
 
@@ -255,9 +255,14 @@
 
 <img src="./Previews/bAttach.png" width="200"></img>
 
+### B-Inspector
+
+[![](https://markdown-videos.deta.dev/youtube/fo9jejYDZWY)](https://youtu.be/fo9jejYDZWY)
+
 ### B-Midline
 
 <img src="./Previews/bMidline.png" width="400"></img>
+[![](https://markdown-videos.deta.dev/youtube/bk95cM1o4-E)](https://youtu.be/bk95cM1o4-E)
 
 ### B-Selection
 
@@ -271,6 +276,7 @@
 ### B-Sound-Editor
 
 <img src="./Previews/SceneSoundEditor.png" width="500"></img>
+[![](https://markdown-videos.deta.dev/youtube/W-92XYgx0m4)](https://youtu.be/W-92XYgx0m4)
 
 ### B-Sound-Mute
 
@@ -283,6 +289,10 @@
 ### BEPU-Unity
 
 <img src="./Previews/BepuRecorder.png" width="250"></img>
+
+### Delete-Missing-Scripts
+
+[![](https://markdown-videos.deta.dev/youtube/LxU48mpaAdA)](https://youtu.be/LxU48mpaAdA)
 
 ### Full-Screen-Game-View
 
