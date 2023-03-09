@@ -1,6 +1,6 @@
 # Portfolio
 
-[[Chinese Version]](./README.md)
+[[中文版]](./README.md)
 
 ## Table of Contents
 
@@ -10,6 +10,8 @@
 - [Previews](#previews)
 
 ## Products
+
+[![](https://markdown-videos.deta.dev/youtube/G-Y7OHUk_xs)](https://youtu.be/G-Y7OHUk_xs)
 
 <span>
 <a href="https://youtu.be/4_J2BJvY6-o" target="_blank">
