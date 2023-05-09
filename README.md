@@ -79,8 +79,7 @@
 | 12  | [Unity Log Helper](#unity-log-helper)             | Unity 工具: 依標籤的不同，決定是否印出對應的 Log，使開發人員能專注在自己想注意的 Log 上                                                                  |
 | 13  | [Delete Missing Scripts](#delete-missing-scripts) | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                               |
 | 14  | [BAttach](#battach)                               | Unity 小工具: 輕鬆控制物件貼地                                                                                                                           |
-| 15  | [A9CT](#a9ct)                                     | 遊戲修改器: 讓團隊成員能透過修改器自由控制他款遊戲視角，以參考其美術做法                                                                                 |
-| 16  | [Trash View](#trash-view)                         | Windows 工具: 透過網路將複製的內容同步至其他電腦的剪貼簿中，方便快速複製貼上                                                                             |
+| 15  | [Trash View](#trash-view)                         | Windows 工具: 透過網路將複製的內容同步至其他電腦的剪貼簿中，方便快速複製貼上                                                                             |
 
 ## 其他
 
@@ -147,10 +146,6 @@
 ### BAttach
 
 <img src="./Previews/bAttach.png" width="200"></img>
-
-### A9CT
-
-<img src="./Previews/A9CT.png" width="200"></img>
 
 ### Trash View
 
