@@ -11,38 +11,20 @@
 
 ## Products
 
-[![](https://markdown-videos.deta.dev/youtube/ucg_tkJpu4o)](https://youtu.be/ucg_tkJpu4o)
+<a href="https://youtu.be/ucg_tkJpu4o"><img width="345" alt="My Racing Projects" src="https://github.com/snoopyuj/snoopyuj/raw/main/Pics/MyRacingProjects.jpg"/></a>
 
 <span>
-    <a href="https://youtu.be/4_J2BJvY6-o" target="_blank">
-        <img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170">
-    </a>
-    <a href="https://youtu.be/0NxRoB6_TiM" target="_blank">
-        <img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png" width="170">
-    </a>
-    <a href="https://youtu.be/5gkZJXwEj4c" target="_blank">
-        <img alt="Hypercross" src="./Previews/Projects/Hypercross.png" width="170">
-    </a>
+    <a href="https://youtu.be/4_J2BJvY6-o" target="_blank"><img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170"></a>
+    <a href="https://youtu.be/0NxRoB6_TiM" target="_blank"><img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png" width="170"></a>
+    <a href="https://youtu.be/5gkZJXwEj4c" target="_blank"><img alt="Hypercross" src="./Previews/Projects/Hypercross.png" width="170"></a>
     <br/>
-    <a href="https://youtu.be/-OFKzzNUtb4" target="_blank">
-        <img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/0aCgyzVBEaA" target="_blank">
-        <img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/AB4iQr1gpoc" target="_blank">
-        <img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg" width="170">
-    </a>
+    <a href="https://youtu.be/-OFKzzNUtb4" target="_blank"><img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg" width="170"></a>
+    <a href="https://youtu.be/0aCgyzVBEaA" target="_blank"><img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg" width="170"></a>
+    <a href="https://youtu.be/AB4iQr1gpoc" target="_blank"><img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg" width="170"></a>
     <br/>
-    <a href="https://youtu.be/x51WJhPdX5E" target="_blank">
-        <img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/katB0DeYiOc" target="_blank">
-        <img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/xR06M50puak" target="_blank">
-        <img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170">
-    </a>
+    <a href="https://youtu.be/x51WJhPdX5E" target="_blank"><img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg" width="170"></a>
+    <a href="https://youtu.be/katB0DeYiOc" target="_blank"><img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg" width="170"></a>
+    <a href="https://youtu.be/xR06M50puak" target="_blank"><img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170"></a>
 </span>
 
 ### Main Contributions
@@ -50,14 +32,12 @@
 | No. | Description                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Independently developed the game prototype with minimal manpower to validate the core gameplay                                                          |
-| 2   | Designed the transition and integration between the cutscenes and game camera, and implemented state priority and overlay features (like Cinemachine)   |
-| 3   | Implemented the KD Tree algorithm to significantly improve object search performance on the track (O(logN) Time)                                        |
-| 4   | Developed an automatic verification mechanism to reduce manpower costs during game stability testing                                                    |
-| 5   | Developed a sound effects editing interface to improve the development process                                                                          |
-| 6   | Improved the performance of vehicle AI from 1.5 ms to 0.05 ms                                                                                           |
-| 7   | Implemented a portable lobby-based matchmaking system                                                                                                   |
-| 8   | Implemented a highly stable and efficient game server using the [DotNetty](https://github.com/Azure/DotNetty) framework and ported it to three projects |
-| 9   | Devised a strategy to reduce the leaderboard request count by 75% for the Game Server                                                                   |
+| 2   | Implemented the KD Tree algorithm to significantly improve object search performance on the track (O(logN) Time)                                        |
+| 3   | Developed a sound effects editing interface to improve the development process                                                                          |
+| 4   | Improved the performance of vehicle AI from 1.5 ms to 0.05 ms                                                                                           |
+| 5   | Implemented a portable lobby-based matchmaking system                                                                                                   |
+| 6   | Implemented a highly stable and efficient game server using the [DotNetty](https://github.com/Azure/DotNetty) framework and ported it to three projects |
+| 7   | Devised a strategy to reduce the leaderboard request count by 75% for the Game Server                                                                   |
 
 ## Tools List
 
@@ -74,12 +54,9 @@
 | 7   | [Odin Array Enum Title](#odin-array-enum-title)   | ★ Unity Interface Enhance: Name the elements in the array according to the enum [[GitHub]](https://github.com/snoopyuj/OdinEnumArrayTitle)                             |
 | 8   | [Full Screen Game View](#full-screen-game-view)   | Unity Tool: Maximize the game view and hide the toolbar on the top [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                       |
 | 9   | [BMidline](#bmidline)                             | Unity Tool: Improve the efficiency of drawing the midline of the track                                                                                                 |
-| 10  | [BEPU Unity](#bepu-unity)                         | Try to import the fixed point math version of BEPU (Physics Engine) into Unity                                                                                         |
-| 11  | [Unity Debugger](#unity-debugger)                 | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                  |
-| 12  | [Unity Log Helper](#unity-log-helper)             | Unity Tool: Categorize the log by different tags and print the selected log                                                                                            |
-| 13  | [Delete Missing Scripts](#delete-missing-scripts) | Unity Tool: Find and delete the missing scripts in all objects                                                                                                         |
-| 14  | [BAttach](#battach)                               | Unity Tool: Attach the game objects to the ground easily                                                                                                               |
-| 15  | [Trash View](#trash-view)                         | Windows Tool: Synchronize the data in the clipboard easily through local net                                                                                           |
+| 10  | [Unity Debugger](#unity-debugger)                 | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                  |
+| 11  | [Delete Missing Scripts](#delete-missing-scripts) | Unity Tool: Find and delete the missing scripts in all objects                                                                                                         |
+| 12  | [BAttach](#battach)                               | Unity Tool: Attach the game objects to the ground easily                                                                                                               |
 
 ## Others
 
@@ -94,67 +71,55 @@
 
 ### BInspector
 
-[![](https://markdown-videos.deta.dev/youtube/fo9jejYDZWY)](https://youtu.be/fo9jejYDZWY)
+<a href="https://youtu.be/fo9jejYDZWY"><img width="400" src="./Previews/bInspector_play.jpg"/></a>
 
 ### BSelection
 
 <img src="./Previews/bSelection.png" width="400"></img>
-![bSelectionDemo](./Previews/bSelectionDemo.gif)
+<img src="./Previews/bSelectionDemo.gif" width="400"></img>
 
 ### BShortcut
 
-![bShortcutDemo](./Previews/bShortcutDemo.gif)
+<img src="./Previews/bShortcutDemo.gif" width="400"></img>
 
 ### BSoundMute
 
-<img src="https://truth.bahamut.com.tw/s01/201508/e0f0c61736dcfb07f3c13e49d5df7c9b.JPG" width="200"></img>
+<img src="https://truth.bahamut.com.tw/s01/201508/e0f0c61736dcfb07f3c13e49d5df7c9b.JPG" width="150"></img>
 
 ### BSoundEditor
 
-<img src="./Previews/SceneSoundEditor.png" width="500"></img>
-[![](https://markdown-videos.deta.dev/youtube/W-92XYgx0m4)](https://youtu.be/W-92XYgx0m4)
+<img src="./Previews/SceneSoundEditor.png" width="400"></img>
+<a href="https://youtu.be/W-92XYgx0m4"><img width="400" src="./Previews/SceneSoundEditor_play.jpg"/></a>
 
 ### Odin Array Enum Title
 
-![OdinArrayEnumTitle](https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif)
+<img src="https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif" width="400"></img>
 
 ### Full Screen Game View
 
-![FullScreenGameView](./Previews/FullScreenGameView.gif)
+<img src="./Previews/FullScreenGameView.gif" width="400"></img>
 
 ### BMidline
 
 <img src="./Previews/bMidline.png" width="400"></img>
-[![](https://markdown-videos.deta.dev/youtube/bk95cM1o4-E)](https://youtu.be/bk95cM1o4-E)
-
-### BEPU Unity
-
-<img src="./Previews/BepuUnity.gif" width="400"></img>
+<a href="https://youtu.be/bk95cM1o4-E"><img width="400" src="./Previews/bMidline_play.jpg"/></a>
 
 ### Unity Debugger
 
 <img src="./Previews/UnityDebugger.png" width="250"></img>
 
-### Unity Log Helper
-
-<img src="./Previews/UnityLogHelper.png" width="250"></img>
-
 ### Delete Missing Scripts
 
-[![](https://markdown-videos.deta.dev/youtube/LxU48mpaAdA)](https://youtu.be/LxU48mpaAdA)
+<a href="https://youtu.be/LxU48mpaAdA"><img width="400" src="./Previews/deleteMissingScripts_play.jpg"/></a>
 
 ### BAttach
 
 <img src="./Previews/bAttach.png" width="200"></img>
 
-### Trash View
-
-![TrashView](./Previews/TrashViewDemo.gif)
-
 ### Ringash
 
 <img src="./Previews/Ringash.png" width="400"></img>
-[![](https://markdown-videos.deta.dev/youtube/mC6Kpu-0aUU)](https://youtu.be/mC6Kpu-0aUU)
+<a href="https://youtu.be/mC6Kpu-0aUU"><img width="400" src="./Previews/ringash_play.jpg"/></a>
 
 ### GTA4 Jason Statham
 

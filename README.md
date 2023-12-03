@@ -11,7 +11,7 @@
 
 ## 公司產品
 
-<a href="https://youtu.be/ucg_tkJpu4o"><img width="345" alt="My Racing Projects" src="https://github.com/snoopyuj/snoopyuj/raw/main/Pics/MyRacingProjects.jpg"/>      </a>
+<a href="https://youtu.be/ucg_tkJpu4o"><img width="345" alt="My Racing Projects" src="https://github.com/snoopyuj/snoopyuj/raw/main/Pics/MyRacingProjects.jpg"/></a>
 
 <span>
     <a href="https://youtu.be/4_J2BJvY6-o" target="_blank"><img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170"></a>
@@ -32,14 +32,12 @@
 | No. | Description                                                                                               |
 | --- | --------------------------------------------------------------------------------------------------------- |
 | 1   | 獨力完成遊戲 Prototype，以最少的人力成本驗證核心玩法                                                      |
-| 2   | 攝影機運鏡邏輯，過場與遊戲攝影機銜接，狀態優先度與疊加等設計 (如同 Cinemachine)                           |
-| 3   | 導入 KD Tree 演算法，大幅提升搜尋賽道上物件效能 (O(logN) Time)                                            |
-| 4   | 自動驗證遊戲穩定度機制，減少驗證時的人力成本                                                              |
-| 5   | 開發音效編輯介面，改善開發流程                                                                            |
-| 6   | 改善車輛 AI 效能 1.5 ms 至 0.05 ms                                                                        |
-| 7   | 可移植的大廳制對戰配對系統                                                                                |
-| 8   | 以 [DotNetty](https://github.com/Azure/DotNetty) 框架實作高穩定度與高效能的 Game Server，並移植至三個專案 |
-| 9   | 構想出一套策略，使 Game Server 減少 75% 排行榜請求數                                                      |
+| 2   | 導入 KD Tree 演算法，大幅提升搜尋賽道上物件效能 (O(logN) Time)                                            |
+| 3   | 開發音效編輯介面，改善開發流程                                                                            |
+| 4   | 改善車輛 AI 效能 1.5 ms 至 0.05 ms                                                                        |
+| 5   | 可移植的大廳制對戰配對系統                                                                                |
+| 6   | 以 [DotNetty](https://github.com/Azure/DotNetty) 框架實作高穩定度與高效能的 Game Server，並移植至三個專案 |
+| 7   | 構想出一套策略，使 Game Server 減少 75% 排行榜請求數                                                      |
 
 ## 個人作品
 
@@ -56,12 +54,9 @@
 | 7   | [Odin Array Enum Title](#odin-array-enum-title)   | ★ Unity 介面優化: 根據 Enum 命名陣列中的元素標題 [[GitHub]](https://github.com/snoopyuj/OdinEnumArrayTitle)                                              |
 | 8   | [Full Screen Game View](#full-screen-game-view)   | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列 [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                        |
 | 9   | [BMidline](#bmidline)                             | Unity 工具: 提高繪製賽道中線效率                                                                                                                         |
-| 10  | [BEPU Unity](#bepu-unity)                         | 實驗將定點運算 (Fixed Point Math) 的物理系統 BEPU 導入 Unity，嘗試確定性同步 (Deterministic Synchronization) 的可能性                                    |
-| 11  | [Unity Debugger](#unity-debugger)                 | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                |
-| 12  | [Unity Log Helper](#unity-log-helper)             | Unity 工具: 依標籤的不同，決定是否印出對應的 Log，使開發人員能專注在自己想注意的 Log 上                                                                  |
-| 13  | [Delete Missing Scripts](#delete-missing-scripts) | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                               |
-| 14  | [BAttach](#battach)                               | Unity 小工具: 輕鬆控制物件貼地                                                                                                                           |
-| 15  | [Trash View](#trash-view)                         | Windows 工具: 透過網路將複製的內容同步至其他電腦的剪貼簿中，方便快速複製貼上                                                                             |
+| 10  | [Unity Debugger](#unity-debugger)                 | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                |
+| 11  | [Delete Missing Scripts](#delete-missing-scripts) | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                               |
+| 12  | [BAttach](#battach)                               | Unity 小工具: 輕鬆控制物件貼地                                                                                                                           |
 
 ## 其他
 
@@ -76,67 +71,55 @@
 
 ### BInspector
 
-[![](./Previews/bInspector_play.jpg)](https://youtu.be/fo9jejYDZWY)
+<a href="https://youtu.be/fo9jejYDZWY"><img width="400" src="./Previews/bInspector_play.jpg"/></a>
 
 ### BSelection
 
 <img src="./Previews/bSelection.png" width="400"></img>
-![bSelectionDemo](./Previews/bSelectionDemo.gif)
+<img src="./Previews/bSelectionDemo.gif" width="400"></img>
 
 ### BShortcut
 
-![bShortcutDemo](./Previews/bShortcutDemo.gif)
+<img src="./Previews/bShortcutDemo.gif" width="400"></img>
 
 ### BSoundMute
 
-<img src="https://truth.bahamut.com.tw/s01/201508/e0f0c61736dcfb07f3c13e49d5df7c9b.JPG" width="200"></img>
+<img src="https://truth.bahamut.com.tw/s01/201508/e0f0c61736dcfb07f3c13e49d5df7c9b.JPG" width="150"></img>
 
 ### BSoundEditor
 
-<img src="./Previews/SceneSoundEditor.png" width="500"></img>
-[![](./Previews/SceneSoundEditor_play.jpg)](https://youtu.be/W-92XYgx0m4)
+<img src="./Previews/SceneSoundEditor.png" width="400"></img>
+<a href="https://youtu.be/W-92XYgx0m4"><img width="400" src="./Previews/SceneSoundEditor_play.jpg"/></a>
 
 ### Odin Array Enum Title
 
-![OdinArrayEnumTitle](https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif)
+<img src="https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif" width="400"></img>
 
 ### Full Screen Game View
 
-![FullScreenGameView](./Previews/FullScreenGameView.gif)
+<img src="./Previews/FullScreenGameView.gif" width="400"></img>
 
 ### BMidline
 
 <img src="./Previews/bMidline.png" width="400"></img>
-[![](./Previews/bMidline_play.jpg)](https://youtu.be/bk95cM1o4-E)
-
-### BEPU Unity
-
-<img src="./Previews/BepuUnity.gif" width="400"></img>
+<a href="https://youtu.be/bk95cM1o4-E"><img width="400" src="./Previews/bMidline_play.jpg"/></a>
 
 ### Unity Debugger
 
 <img src="./Previews/UnityDebugger.png" width="250"></img>
 
-### Unity Log Helper
-
-<img src="./Previews/UnityLogHelper.png" width="250"></img>
-
 ### Delete Missing Scripts
 
-[![](./Previews/deleteMissingScripts_play.jpg)](https://youtu.be/LxU48mpaAdA)
+<a href="https://youtu.be/LxU48mpaAdA"><img width="400" src="./Previews/deleteMissingScripts_play.jpg"/></a>
 
 ### BAttach
 
 <img src="./Previews/bAttach.png" width="200"></img>
 
-### Trash View
-
-![TrashView](./Previews/TrashViewDemo.gif)
-
 ### Ringash
 
 <img src="./Previews/Ringash.png" width="400"></img>
-[![](./Previews/ringash_play.jpg)](https://youtu.be/mC6Kpu-0aUU)
+<a href="https://youtu.be/mC6Kpu-0aUU"><img width="400" src="./Previews/ringash_play.jpg"/></a>
 
 ### GTA4 Jason Statham
 
