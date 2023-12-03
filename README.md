@@ -11,38 +11,20 @@
 
 ## 公司產品
 
-[![](https://markdown-videos.deta.dev/youtube/ucg_tkJpu4o)](https://youtu.be/ucg_tkJpu4o)
+<a href="https://youtu.be/ucg_tkJpu4o"><img width="345" alt="My Racing Projects" src="https://github.com/snoopyuj/snoopyuj/raw/main/Pics/MyRacingProjects.jpg"/>      </a>
 
 <span>
-    <a href="https://youtu.be/4_J2BJvY6-o" target="_blank">
-        <img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170">
-    </a>
-    <a href="https://youtu.be/0NxRoB6_TiM" target="_blank">
-        <img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png" width="170">
-    </a>
-    <a href="https://youtu.be/5gkZJXwEj4c" target="_blank">
-        <img alt="Hypercross" src="./Previews/Projects/Hypercross.png" width="170">
-    </a>
+    <a href="https://youtu.be/4_J2BJvY6-o" target="_blank"><img alt="Asphalt9DX" src="./Previews/Projects/Asphalt9DX.png" width="170"></a>
+    <a href="https://youtu.be/0NxRoB6_TiM" target="_blank"><img alt="Asphalt9VR" src="./Previews/Projects/Asphalt9VR.png" width="170"></a>
+    <a href="https://youtu.be/5gkZJXwEj4c" target="_blank"><img alt="Hypercross" src="./Previews/Projects/Hypercross.png" width="170"></a>
     <br/>
-    <a href="https://youtu.be/-OFKzzNUtb4" target="_blank">
-        <img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/0aCgyzVBEaA" target="_blank">
-        <img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/AB4iQr1gpoc" target="_blank">
-        <img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg" width="170">
-    </a>
+    <a href="https://youtu.be/-OFKzzNUtb4" target="_blank"><img alt="UltraMotoVR" src="./Previews/Projects/UltraMotoVR.jpg" width="170"></a>
+    <a href="https://youtu.be/0aCgyzVBEaA" target="_blank"><img alt="OvertakeVR" src="./Previews/Projects/OvertakeVR.jpg" width="170"></a>
+    <a href="https://youtu.be/AB4iQr1gpoc" target="_blank"><img alt="OvertakeDX" src="./Previews/Projects/OvertakeDX.jpg" width="170"></a>
     <br/>
-    <a href="https://youtu.be/x51WJhPdX5E" target="_blank">
-        <img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/katB0DeYiOc" target="_blank">
-        <img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg" width="170">
-    </a>
-    <a href="https://youtu.be/xR06M50puak" target="_blank">
-        <img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170">
-    </a>
+    <a href="https://youtu.be/x51WJhPdX5E" target="_blank"><img alt="SpeedRider3" src="./Previews/Projects/SpeedRider3.jpg" width="170"></a>
+    <a href="https://youtu.be/katB0DeYiOc" target="_blank"><img alt="FluffyRider" src="./Previews/Projects/FluffyRider.jpg" width="170"></a>
+    <a href="https://youtu.be/xR06M50puak" target="_blank"><img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170"></a>
 </span>
 
 ### 主要貢獻
@@ -94,7 +76,7 @@
 
 ### BInspector
 
-[![](https://markdown-videos.deta.dev/youtube/fo9jejYDZWY)](https://youtu.be/fo9jejYDZWY)
+[![](./Previews/bInspector_play.jpg)](https://youtu.be/fo9jejYDZWY)
 
 ### BSelection
 
@@ -112,7 +94,7 @@
 ### BSoundEditor
 
 <img src="./Previews/SceneSoundEditor.png" width="500"></img>
-[![](https://markdown-videos.deta.dev/youtube/W-92XYgx0m4)](https://youtu.be/W-92XYgx0m4)
+[![](./Previews/SceneSoundEditor_play.jpg)](https://youtu.be/W-92XYgx0m4)
 
 ### Odin Array Enum Title
 
@@ -125,7 +107,7 @@
 ### BMidline
 
 <img src="./Previews/bMidline.png" width="400"></img>
-[![](https://markdown-videos.deta.dev/youtube/bk95cM1o4-E)](https://youtu.be/bk95cM1o4-E)
+[![](./Previews/bMidline_play.jpg)](https://youtu.be/bk95cM1o4-E)
 
 ### BEPU Unity
 
@@ -141,7 +123,7 @@
 
 ### Delete Missing Scripts
 
-[![](https://markdown-videos.deta.dev/youtube/LxU48mpaAdA)](https://youtu.be/LxU48mpaAdA)
+[![](./Previews/deleteMissingScripts_play.jpg)](https://youtu.be/LxU48mpaAdA)
 
 ### BAttach
 
@@ -154,7 +136,7 @@
 ### Ringash
 
 <img src="./Previews/Ringash.png" width="400"></img>
-[![](https://markdown-videos.deta.dev/youtube/mC6Kpu-0aUU)](https://youtu.be/mC6Kpu-0aUU)
+[![](./Previews/ringash_play.jpg)](https://youtu.be/mC6Kpu-0aUU)
 
 ### GTA4 Jason Statham
 
