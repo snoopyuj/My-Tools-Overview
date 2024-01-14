@@ -95,6 +95,10 @@
 
 <img src="https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif" width="400"></img>
 
+### Delete Missing Scripts
+
+https://github.com/snoopyuj/DeleteMissingScripts/assets/2370689/27aabf42-fdd1-494f-bed3-eb53007bb203
+
 ### Full Screen Game View
 
 <img src="./Previews/FullScreenGameView.gif" width="400"></img>
@@ -107,10 +111,6 @@
 ### Unity Debugger
 
 <img src="./Previews/UnityDebugger.png" width="250"></img>
-
-### Delete Missing Scripts
-
-https://github.com/snoopyuj/DeleteMissingScripts/assets/2370689/27aabf42-fdd1-494f-bed3-eb53007bb203
 
 ### BAttach
 
