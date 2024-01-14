@@ -52,10 +52,10 @@
 | 5   | [BSoundMute](#bsoundmute)                         | ★ Windows 工具，快速切換軟體靜音 [[GitHub]](https://github.com/snoopyuj/bSoundMute) [[巴哈文章]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316) |
 | 6   | [BSoundEditor](#bsoundeditor)                     | ★ Unity 工具: 於編輯面板上修改並預覽場景音效                                                                                                             |
 | 7   | [Odin Array Enum Title](#odin-array-enum-title)   | ★ Unity 介面優化: 根據 Enum 命名陣列中的元素標題 [[GitHub]](https://github.com/snoopyuj/OdinEnumArrayTitle)                                              |
-| 8   | [Full Screen Game View](#full-screen-game-view)   | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列 [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                        |
-| 9   | [BMidline](#bmidline)                             | Unity 工具: 提高繪製賽道中線效率                                                                                                                         |
-| 10  | [Unity Debugger](#unity-debugger)                 | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                |
-| 11  | [Delete Missing Scripts](#delete-missing-scripts) | Unity 小工具: 找尋物件中已遺失的腳本並刪除                                                                                                               |
+| 8   | [Delete Missing Scripts](#delete-missing-scripts) | ★ Unity 小工具: 找尋物件中已遺失的腳本並刪除 [[GitHub]](https://github.com/snoopyuj/DeleteMissingScripts)                                                |
+| 9   | [Full Screen Game View](#full-screen-game-view)   | Unity 小工具: 能將 Game View 最大化顯示並隱藏工具列 [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                        |
+| 10  | [BMidline](#bmidline)                             | Unity 工具: 提高繪製賽道中線效率                                                                                                                         |
+| 11  | [Unity Debugger](#unity-debugger)                 | Unity 工具: 使開發人員可依據鍵盤功能鍵切換不同 Debug 功能                                                                                                |
 | 12  | [BAttach](#battach)                               | Unity 小工具: 輕鬆控制物件貼地                                                                                                                           |
 
 ## 其他
@@ -110,7 +110,7 @@
 
 ### Delete Missing Scripts
 
-<a href="https://youtu.be/LxU48mpaAdA"><img width="400" src="./Previews/deleteMissingScripts_play.jpg"/></a>
+https://github.com/snoopyuj/DeleteMissingScripts/assets/2370689/27aabf42-fdd1-494f-bed3-eb53007bb203
 
 ### BAttach
 
