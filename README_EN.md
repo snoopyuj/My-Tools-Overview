@@ -52,10 +52,10 @@
 | 5   | [BSoundMute](#bsoundmute)                         | ★ Windows System Tool: Mute the programs easily [[GitHub]](https://github.com/snoopyuj/bSoundMute) [[Article]](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1868316) |
 | 6   | [BSoundEditor](#bsoundeditor)                     | ★ Unity Tool: Easy to balance the sound effects of the scene                                                                                                           |
 | 7   | [Odin Array Enum Title](#odin-array-enum-title)   | ★ Unity Interface Enhance: Name the elements in the array according to the enum [[GitHub]](https://github.com/snoopyuj/OdinEnumArrayTitle)                             |
-| 8   | [Full Screen Game View](#full-screen-game-view)   | Unity Tool: Maximize the game view and hide the toolbar on the top [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                       |
-| 9   | [BMidline](#bmidline)                             | Unity Tool: Improve the efficiency of drawing the midline of the track                                                                                                 |
-| 10  | [Unity Debugger](#unity-debugger)                 | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                  |
-| 11  | [Delete Missing Scripts](#delete-missing-scripts) | Unity Tool: Find and delete the missing scripts in all objects                                                                                                         |
+| 8   | [Delete Missing Scripts](#delete-missing-scripts) | ★ Unity Tool: Find and delete the missing scripts in all objects [[GitHub]](https://github.com/snoopyuj/DeleteMissingScripts)                                          |
+| 9   | [Full Screen Game View](#full-screen-game-view)   | Unity Tool: Maximize the game view and hide the toolbar on the top [[GitHub]](https://gist.github.com/snoopyuj/92e0b62ca687aeb5d5c76af573c32370)                       |
+| 10  | [BMidline](#bmidline)                             | Unity Tool: Improve the efficiency of drawing the midline of the track                                                                                                 |
+| 11  | [Unity Debugger](#unity-debugger)                 | Unity Tool: Allow developers to switch between different debug functions according different hot-keys                                                                  |
 | 12  | [BAttach](#battach)                               | Unity Tool: Attach the game objects to the ground easily                                                                                                               |
 
 ## Others
@@ -95,6 +95,10 @@
 
 <img src="https://github.com/snoopyuj/OdinEnumArrayTitle/raw/main/BTools/BInspector/Demo/demo.gif" width="400"></img>
 
+### Delete Missing Scripts
+
+https://github.com/snoopyuj/DeleteMissingScripts/assets/2370689/27aabf42-fdd1-494f-bed3-eb53007bb203
+
 ### Full Screen Game View
 
 <img src="./Previews/FullScreenGameView.gif" width="400"></img>
@@ -107,10 +111,6 @@
 ### Unity Debugger
 
 <img src="./Previews/UnityDebugger.png" width="250"></img>
-
-### Delete Missing Scripts
-
-<a href="https://youtu.be/LxU48mpaAdA"><img width="400" src="./Previews/deleteMissingScripts_play.jpg"/></a>
 
 ### BAttach
 
