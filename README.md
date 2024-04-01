@@ -27,18 +27,6 @@
     <a href="https://youtu.be/xR06M50puak" target="_blank"><img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170"></a>
 </span>
 
-### 主要貢獻
-
-| No. | Description                                                                                               |
-| --- | --------------------------------------------------------------------------------------------------------- |
-| 1   | 獨力完成遊戲 Prototype，以最少的人力成本驗證核心玩法                                                      |
-| 2   | 導入 KD Tree 演算法，大幅提升搜尋賽道上物件效能 (O(logN) Time)                                            |
-| 3   | 開發音效編輯介面，改善開發流程                                                                            |
-| 4   | 改善車輛 AI 效能 1.5 ms 至 0.05 ms                                                                        |
-| 5   | 可移植的大廳制對戰配對系統                                                                                |
-| 6   | 以 [DotNetty](https://github.com/Azure/DotNetty) 框架實作高穩定度與高效能的 Game Server，並移植至三個專案 |
-| 7   | 構想出一套策略，使 Game Server 減少 75% 排行榜請求數                                                      |
-
 ## 個人作品
 
 > 以下為過去開發的工具清單，提升開發效率、解決同伴困難。
