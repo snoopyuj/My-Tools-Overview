@@ -27,18 +27,6 @@
     <a href="https://youtu.be/xR06M50puak" target="_blank"><img alt="CaptainSub" src="./Previews/Projects/CaptainSub.jpg" width="170"></a>
 </span>
 
-### Main Contributions
-
-| No. | Description                                                                                                                                             |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Independently developed the game prototype with minimal manpower to validate the core gameplay                                                          |
-| 2   | Implemented the KD Tree algorithm to significantly improve object search performance on the track (O(logN) Time)                                        |
-| 3   | Developed a sound effects editing interface to improve the development process                                                                          |
-| 4   | Improved the performance of vehicle AI from 1.5 ms to 0.05 ms                                                                                           |
-| 5   | Implemented a portable lobby-based matchmaking system                                                                                                   |
-| 6   | Implemented a highly stable and efficient game server using the [DotNetty](https://github.com/Azure/DotNetty) framework and ported it to three projects |
-| 7   | Devised a strategy to reduce the leaderboard request count by 75% for the Game Server                                                                   |
-
 ## Tools List
 
 > Here is a list of tools I have developed to improve team development efficiency and assist my colleagues.
